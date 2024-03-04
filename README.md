@@ -13,7 +13,7 @@
     </ul>
 
 # 🌄 Preview
-Login
+Login                                   
 <img width="751" alt="Screenshot 2024-03-04 at 18 05 09" src="https://github.com/Sithum1220/MobileParadise-layered/assets/124914672/646943c2-1190-43fb-bc3d-ffcd380a15c0">
 
 Dashboard
